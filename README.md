@@ -12,3 +12,5 @@ Cookie analyser: Check cookie flags such ad secure and HTTPonly
 
 robots.txt file: look at robots.txt file for Allowed and Disallowed paths
 
+Extract comments: extract all the comments to find secrets, API-Keys and ...
+
